@@ -63,7 +63,7 @@
     width: 100%;
     height: 70px;
     display: block;
-    background-image: url(./icons/shadow.svg);
+    background-image: url(../icons/shadow.svg);
     background-repeat: no-repeat;
     background-position: center;
     position: absolute;
@@ -81,7 +81,7 @@
     width: 100%;
     height: 70px;
     display: block;
-    background-image: url(./icons/shadow-sm.svg);
+    background-image: url(../icons/shadow-sm.svg);
     background-repeat: no-repeat;
     background-position: center;
     position: absolute;
@@ -275,7 +275,7 @@ nav .navbar a:hover{
 
 section.hero{
     height: 545px;
-    background-image: url(./images/hero.png);
+    background-image: url(../images/hero.png);
     background-position: 0% 0%;
     background-repeat: no-repeat;
     overflow:hidden;
@@ -502,7 +502,7 @@ section.about-meal .about-meal-wrap p{
     background: linear-gradient(
         rgba(35,43,56,0.9),
         rgba(35,43,56,0.9))
-        , url(./images/food-table.jpg);
+        , url(../images/food-table.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
